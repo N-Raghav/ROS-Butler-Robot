@@ -1,0 +1,2 @@
+robot_butler
+-DCATKIN_DEVEL_PREFIX=/home/solvedcandle10/robot_butler_ws/devel -DCMAKE_INSTALL_PREFIX=/home/solvedcandle10/robot_butler_ws/install -G Unix Makefiles

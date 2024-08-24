@@ -1,0 +1,8 @@
+prefix=/home/solvedcandle10/robot_butler_ws/devel
+
+Name: robot_butler
+Description: Description of robot_butler
+Version: 0.0.0
+Cflags: -I/home/solvedcandle10/robot_butler_ws/devel/include -I/home/solvedcandle10/robot_butler_ws/src/robot_butler/include
+Libs: -L${prefix}/lib -lrobot_butler
+Requires: actionlib geometry_msgs nav_msgs rospy std_msgs message_runtime
