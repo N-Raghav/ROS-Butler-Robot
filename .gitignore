@@ -1,0 +1,20 @@
+# Ignore build and devel directories
+build/
+devel/
+
+# Ignore logs
+logs/
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore Python bytecode
+*.pyc
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore local environment files
+.env
